@@ -56,9 +56,9 @@ Please see [Getting Started](#getting-started) section for details about running
 
 - notebooks corresponding to the attempts made are available inside the notebooks directory.
 
+### Proof Of Submission
 
-
-
+![image of Proof of Submission](170431L_pump_it_up_submission.png "Proof of Submission")
 
 
 
